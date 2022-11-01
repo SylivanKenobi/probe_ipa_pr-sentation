@@ -38,7 +38,7 @@
     "grunt-css": "^0.5.4",
     "grunt-sass": "^1.0.0",
     "grunt-svginject": "0.0.2",
-    "grunt-svgmin": "^2.0.1",
+    "grunt-svgmin": "^6.0.1",
     "grunt-zip": "~0.7.0"
   },
   "licenses": [
